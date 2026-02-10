@@ -1,0 +1,2 @@
+I chose data from Kaggle and it’s about heart disease dataset. The problem type is classification because we want to classify the patient (infected or not infected).  The target variable we want to know is: Does the patient have heart disease or not?
+The model goal is to predict whether the patient has heart diseases based on medical features such as age, blood pressure, and cholesterol level.
